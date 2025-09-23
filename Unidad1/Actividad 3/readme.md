@@ -1,3 +1,5 @@
+# Jose Roberto Carrizales
+# 21100177
 # Gestor de Tareas Personales en Python
 
 Este es un sencillo gestor de tareas personales desarrollado en Python. Permite a los usuarios organizar sus actividades diarias a través de un menú interactivo.
