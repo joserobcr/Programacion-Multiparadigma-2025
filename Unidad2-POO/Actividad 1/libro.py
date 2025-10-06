@@ -21,7 +21,7 @@ class Libro:
         self.año_publicacion = año_publicacion
         self.prestado = False
 
-        def devolver(self):
+    def devolver(self):
             """
             Método para devolver el libro a la biblioteca.
             """
@@ -31,7 +31,7 @@ class Libro:
             else:
                 print(f"El libro '{self.titulo}' no estaba prestado.")
 
-        def mostrar_estado(self):
+    def mostrar_estado(self):
             """
             Método para mostrar el estado del libro.
             """
