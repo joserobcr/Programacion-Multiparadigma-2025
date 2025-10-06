@@ -21,6 +21,16 @@ class Libro:
         self.año_publicacion = año_publicacion
         self.prestado = False
 
+    def prestar(self):
+            """
+            Método para prestar el libro.
+            """
+            if not self.prestado:
+                self.prestado = True
+                print(f"El libro '{self.titulo}' ha sido prestado.")
+            else:
+                print(f"El libro '{self.titulo}' ya está prestado.")
+
     def devolver(self):
             """
             Método para devolver el libro a la biblioteca.
