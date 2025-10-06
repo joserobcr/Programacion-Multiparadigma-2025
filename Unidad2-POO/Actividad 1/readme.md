@@ -31,3 +31,6 @@ Ahora nos mostrara la informacion de cada libro y la manipulacion que se le real
 
 Despues de cada manipulacion que se le realizo a cada libro, nos mostrara el estado final de cada uno.
 ![alt text](image-2.png)
+
+COMMITS REALIZADOS
+![alt text](image-3.png)
