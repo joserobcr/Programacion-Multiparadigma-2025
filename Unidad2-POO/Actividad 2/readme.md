@@ -67,3 +67,4 @@ Y nos muestra lo siguiente:
 ![alt text](<Captura de pantalla 2025-10-08 094311.png>)
 
 # COMMITS REALIZADOS
+![alt text](image.png)
