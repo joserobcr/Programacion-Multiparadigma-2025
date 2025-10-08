@@ -47,3 +47,23 @@ Metodo Especial "__eq__": Define la comparacion de igualdad basada unicamente en
 Metodo Especial "__init__": Constructor, inicializa el diccionario privado de productos. 
 Metodo Especial "__len__": Permite usar la funcion nativa "len()" para obtener el numero de productos unicos. 
 Metodo Especial "__str__": Permite imprimir el objeto "Inventario", listando todos los productos que contiene. 
+
+
+# EJEMPLO DE EJECUCION
+
+Principalmente abrimos la terminal de la actividad y ejecutamos el siguiente comando:
+python main.py
+![alt text](<Captura de pantalla 2025-10-08 094235.png>)
+
+Y nos muestra lo siguiente:
+- Inventario creado.
+- Modificacion de stock.
+- Precio de un producto.
+- Intento de asignar stock no valido. 
+- Calculo del total del inventario.
+- Reporte de inventario.
+- Busqueda de un producto.
+- Comparacion de dos productos iguales.
+![alt text](<Captura de pantalla 2025-10-08 094311.png>)
+
+# COMMITS REALIZADOS
