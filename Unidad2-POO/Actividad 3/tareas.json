@@ -1,0 +1,9 @@
+[
+    {
+        "texto": "Tarea Android",
+        "descripcion": "Android",
+        "completada": true,
+        "tipo": "TareaPrioritaria",
+        "prioridad": "Media"
+    }
+]
