@@ -1,4 +1,4 @@
-# Proyecto: Sistema de Gestión de Biblioteca (POO)
+# Proyecto: Sistema de Gestión de Biblioteca
 
 Este proyecto es una aplicación de consola simple para gestionar un catálogo de libros y préstamos a usuarios, desarrollada en Python y aplicando los principios de la Programación Orientada a Objetos.
 
