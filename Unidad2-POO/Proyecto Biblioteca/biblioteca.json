@@ -1,0 +1,26 @@
+{
+    "libros": [
+        {
+            "titulo": "La Metamorfosis",
+            "autor": "Frank Kafka",
+            "año": 1992,
+            "estado": "disponible"
+        },
+        {
+            "titulo": "Don Quijote de la Mancha",
+            "autor": "Miguel de Cervantes",
+            "año": 1605,
+            "estado": "disponible"
+        }
+    ],
+    "usuarios": [
+        {
+            "nombre": "Dana",
+            "libros_prestados": []
+        },
+        {
+            "nombre": "José",
+            "libros_prestados": []
+        }
+    ]
+}
