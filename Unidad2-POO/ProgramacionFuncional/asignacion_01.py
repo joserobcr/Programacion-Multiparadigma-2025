@@ -2,7 +2,7 @@ from functools import reduce
 
 def crear_transformador(funcion):
     """
-    Recibe una función de transformación (ej. x * 2) y retorna 
+    Recibe una función de transformación y retorna 
     una NUEVA función que sabe aplicar eso a toda una lista.
     """
     def transformador(lista):
@@ -12,7 +12,7 @@ def crear_transformador(funcion):
 
 def crear_filtro(predicado):
     """
-    Recibe una condición (predicado) y retorna una NUEVA función
+    Recibe una condición y retorna una nueva función
     que sabe filtrar una lista con esa condición.
     """
     def filtro(lista):
@@ -33,7 +33,7 @@ def componer(*funciones):
     """
     Recibe múltiples funciones como argumentos.
     Retorna una función 'pipeline' que pasa el resultado de una 
-    función como entrada de la siguiente (de izquierda a derecha).
+    función como entrada de la siguiente.
     """
     def pipeline(data):
         resultado = data
