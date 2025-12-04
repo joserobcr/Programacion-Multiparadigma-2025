@@ -10,7 +10,7 @@ def aplicar_formato_impuesto(venta):
     """
     Función Pura (Transformación/Map):
     Recibe una venta y crea un NUEVO diccionario con el impuesto aplicado.
-    No modifica el diccionario original (Inmutabilidad).
+    No modifica el diccionario original.
     """
     monto_con_impuesto = venta['monto'] * 1.15
     return {
